@@ -1,0 +1,2 @@
+"search-number","evaluation","trust_low*","trust_high*","lie_low*","lie_high*","trust_fall_low*","trust_fall_high*","lie_fall_low*","lie_fall_high*","trust_rise_low*","trust_rise_high*","lie_rise_low*","lie_rise_high*","num-replicates","best-fitness-so-far"
+"1","500","0","80","0","20","0","3","0","5","0","5","0","2","10","87.57148395638778"
